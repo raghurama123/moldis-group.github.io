@@ -2,17 +2,14 @@
 layout: default
 ---
 
-## The Code
-**Pople** is an opensource toolkit written in Python to perform _ab initio_ thermochemistry calculations. The present version, [pople-21.4](https://github.com/moldis-group/Pople), supports G4(MP2) calculations using the [ORCA quantum chemistry program package](https://www.faccts.de/orca/) for all the electronic structure calculations. The releases will be semiannual using the year and month of the release as the version number. Pople enables customizing every step in a G4(MP2) calculation, facilitating users to explore effects various theories and basis sets can have on the speed and accuracy. G4(MP2)-XP is a variant based on DLPNO-CCSD(T), RI-MP2, RI-DFT and RI-HF approximations permitting thermochemistry calculations of molecules as large as buckminsterfullerene. 
-
-The Pople project follows the computational chemistry software design principles of the [Psi4NumPy project](https://github.com/psi4/psi4numpy) and provides an interactive framework for thermochemistry calculations.
+## Laboratory for Chemical Space Design
+We are a small team of chemists, physicists, and an engineer. Topics of interest to us, in no particular order of preference, are Chemical compound space design, Quantum mechanics, Machine learning and Big Data analytics, Computational materials science, High-performance computing, Femtosecond electron dynamics, Anharmonic vibrational spectra, Potential energy surfaces, and Computer-based science education. Our present research activities are driven by the requirements of our MolDis initiative.
 
 * * *
 
-## Calculations supported
-The input file is a programmable python script. This facilitates the user to design inputs to perform composite tasks. The tutorials provide example input/output files for the following job types: enthalpy of formation, atomization energy, ionization energy, electron affinity, proton affinity, intermolecular binding energy
-
-Calculations can also be performed in a _single point_ fashion with a user provided initial geometry and harmonic frequencies. Further, empirical parameters such as reference standard enthalpies of atoms and higher-level correction (HLC) constants can be modified.
+## Project MolDis
+MOLDIS, our big data analytics platform for MOLecular DIScovery is now open for public access. Please click the logo below for more details.
+[Moldis](https://moldis.tifrh.res.in/index.html)
  
 * * *
 
