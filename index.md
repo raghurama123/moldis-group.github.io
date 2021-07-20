@@ -9,7 +9,7 @@ We are a small team of chemists, physicists, and an engineer. Topics of interest
 
 ## Project MolDis
 MOLDIS, our big data analytics platform for MOLecular DIScovery is now open for public access. Please click the logo below for more details.
-[Moldis](https://moldis.tifrh.res.in/index.html)
+[![MolDis](assets/img/MolDis.png)](https://moldis.tifrh.res.in/index.html)
  
 * * *
 
