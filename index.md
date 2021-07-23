@@ -10,7 +10,10 @@ MolDis, our big data analytics platform for MOLecular DIScovery is now open for 
 [![MolDis](assets/img/MolDis.png)](https://moldis.tifrh.res.in/index.html)
 
 ![](https://moldis.tifrh.res.in/index.html)
+<a href="https://moldis.tifrh.res.in/index.html">
 <img src="assets/img/MolDis.png"  height="120">
+ </a>
+
  
 * * *
 
