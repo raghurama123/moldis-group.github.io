@@ -37,20 +37,17 @@ Sambit Kumar Das
 – (July 2020 – February 2021, Senior Research Fellow with us)      
 – Since April 2021, Doctoral student at the Department of Physics, Stockholm University, Sweden      
 
-Rutvij Vihang Bhavsar      
+[Rutvij Vihang Bhavsar](https://scholar.google.com/citations?hl=en&user=B6A0YUwAAAAJ)      
 – M.Sc. in Physics, Indian Institute of Technology Kanpur, India      
 – (2016 VSRP fellow with us)      
 – (October 2018 – September 2019, Junior Research Fellow with us)      
 – Since October 2019, Doctoral student at the Department of Mathematics, University of York, UK      
 
 ### Former Visiting Students      
-Rutvij Vihang Bhavsar, 2016      
-Ahana Ghosh, 2016      
+[Ahana Ghosh](https://scholar.google.com/citations?user=82ubzWoAAAAJ&hl=en&oi=ao), 2016      
 Manvi Gupta, 2017      
 Anjana R Kammath, 2017      
-Prakriti Kayastha, 2017      
 Rishabh Gupta, 2017      
-Salini Senthil, 2017      
 Sharanya Srinivasan, 2018      
 Sowmya Krishnan, 2018      
 Divya Suman, 2018      
