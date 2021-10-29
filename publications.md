@@ -4,14 +4,15 @@ layout: default
 
 # Publications      
 
-1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_]     (https://arxiv.org/abs/2110.11798), 
+1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_]     (https://arxiv.org/abs/2110.11798)    
+Prakriti Kayastha, Raghunathan Ramakrishnan     
 submitted (2021)   
 
-[_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414), arxiv, submitted (2021)     
+1.[_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414), arxiv, submitted (2021)     
 
-[_All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1), chemrxiv, submitted (2021) 
+1.[_All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1), chemrxiv, submitted (2021) 
     
-[_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol. (2021)       
+1.[_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol. (2021)       
 
 1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C), Chemical Science (2021)
 
