@@ -18,37 +18,11 @@ layout: default
 
 1. [_Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347), Mach. Learn.: Sci. Technol. 
 
+1. [_High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials_](https://doi.org/10.1063/5.0041717), J. Chem. Phys.    
 
-    Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma (Supplementary Material) (Raw input/output files on NOMAD)
-    Prakriti Kayastha, Raghunathan Ramakrishnan
-    submitted (2021).
-    
-    Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design (Project website) (Codes for Inverse-Design)(Web-based QML model for querying)
-    Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan
-    submitted (2021).
-    
-    
-    All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations (Project website) (Code on Github)
-    Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
-    submitted (2021).
-    
-    Machine Learning Modeling of Materials with a Group-Subgroup Structure (Supplementary Material) (Raw input/output files on NOMAD)
-    Prakriti Kayastha, Raghunathan Ramakrishnan
-    Machine Learning: Science and Technology, 2 (2021) 035035.
-    
-    Troubleshooting Unstable Molecules in Chemical Space (Supplementary Material) (Code on Github)
-    Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
-    Chemical Science 12 (2021) 5566.
-    
-    Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules (Supplementary Material)
-    Amit Gupta, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
-    Machine Learning: Science and Technology, 2 (2021) 035010.
-    High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials (Supplementary Material) (Data-mining on MolDis) (Raw input/output files on NOMAD)
-    Prakriti Kayastha, Raghunathan Ramakrishnan
-    The Journal of Chemical Physics, 154 (2021) 061102.
-    Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies (Supplementary Material)
-    Sambit Kumar Das, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
-    The Journal of Chemical Physics, 154 (2021) 044113.
+1. [_Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_](https://doi.org/10.1063/5.0032713), J. Chem. Phys. 
+
+
     Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase
     Ardita Kilaj, Hong Gao, Diana Nikolaeva Tahchieva, Raghunathan Ramakrishnan, Daniel G Bachmann, Dennis Gillingham, Anatole von Lilienfeld, Jochen Küpper, Stefan Willitsch
     Physical Chemistry Chemical Physics, 22 (2020) 13431-13439.
