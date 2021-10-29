@@ -5,12 +5,9 @@ layout: default
 ## Members
 
 
-![](https://moldis.tifrh.res.in/index.html)
-<a href="https://moldis.tifrh.res.in/index.html">
 <img src="assets/img/IMG-20180707-WA0002.jpg"  height="150">
 <img src="assets/img/20170718_173905.jpg"  height="150">
 <img src="assets/img/sandwich.png"  height="150">
-</a>
 
 
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en) 
