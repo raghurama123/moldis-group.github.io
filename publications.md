@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## 2021
+## submitted
 
 1. [Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma](https://arxiv.org/abs/2110.11798) arxiv (2021)    
+  
 1. [Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design](https://arxiv.org/abs/2110.05414) arxiv (2021)     
+
 1. [All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations](https://doi.org/10.26434/chemrxiv.14524890.v1) chemrxiv (2021)     
 
-### 2021
+
+### 2021          
 1. [Machine Learning Modeling of Materials with a Group-Subgroup Structure](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol.    
 
 {: reversed="reversed"}
