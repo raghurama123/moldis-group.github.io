@@ -7,6 +7,10 @@ layout: default
 1. [Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma](https://arxiv.org/abs/2110.11798) arxiv (2021)    
 1. [Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design](https://arxiv.org/abs/2110.05414) arxiv (2021)     
 1. [All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations](https://doi.org/10.26434/chemrxiv.14524890.v1) chemrxiv (2021)     
+
+### 2021
+1. [Machine Learning Modeling of Materials with a Group-Subgroup Structure](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol.    
+
 {: reversed="reversed"}
 
     Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma (Supplementary Material) (Raw input/output files on NOMAD)
@@ -21,9 +25,11 @@ layout: default
     All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations (Project website) (Code on Github)
     Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
     submitted (2021).
+    
     Machine Learning Modeling of Materials with a Group-Subgroup Structure (Supplementary Material) (Raw input/output files on NOMAD)
     Prakriti Kayastha, Raghunathan Ramakrishnan
     Machine Learning: Science and Technology, 2 (2021) 035035.
+    
     Troubleshooting Unstable Molecules in Chemical Space (Supplementary Material) (Code on Github)
     Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
     Chemical Science 12 (2021) 5566.
