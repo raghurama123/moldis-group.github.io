@@ -4,7 +4,6 @@ layout: default
 
 # Publications      
 
-   ## submitted
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798), arxiv (2021)    
   
 1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414), arxiv (2021)     
