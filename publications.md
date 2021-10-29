@@ -28,18 +28,19 @@ layout: default
 1. [_Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase_](https://doi.org/10.1039/D0CP01396J), Phys. Chem. Chem. Phys.
 
 
+   ## 2019
+1. [_Machine learning modeling of Wigner intracule functionals for two electrons in one dimension_](https://doi.org/10.1063/1.5089597), J. Chem. Phys.       
+
+1. [_The Chemical Space of B,N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling_](https://doi.org/10.1063/1.5088083), J. Chem. Phys.   
+
+1. [_Exact separation of radial and angular correlation energies in two-electron atoms_](https://doi.org/10.1016/j.cplett.2019.02.004), Chem. Phys. Lett.        
 
 
-    Machine learning modeling of Wigner intracule functionals for two electrons in one dimension
-    Rutvij Vihang Bhavsar, Raghunathan Ramakrishnan
-    The Journal of Chemical Physics,150 (2019) 144114.
-    The Chemical Space of B, N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling (Supplementary Material)
-    Sabyasachi Chakraborty, Prakriti Kayastha, Raghunathan Ramakrishnan
-    The Journal of Chemical Physics,150 (2019) 114106.
-    Exact separation of radial and angular correlation energies in two-electron atoms
-    Anjana R Kammath, Raghunathan Ramakrishnan
-    Chemical Physics Letters, 720 (2019) 93–96.
-    Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT
+   ## 2018
+1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174), J. Chem. Theory Comput.    
+
+
+
     Diana Tahchieva, Dirk Bakowies, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
     Journal of Chemical Theory and Computation, 14 (2018) 4806-4817.
     Generalized DFTB repulsive potentials from unsupervised machine learning
