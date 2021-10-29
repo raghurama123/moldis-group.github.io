@@ -4,8 +4,8 @@ layout: default
 
 ## 2021
 
-0. first item Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma
-0. second item
+0. [Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma](https://arxiv.org/abs/2110.11798) arxiv (2021)    
+0. [Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design](https://arxiv.org/abs/2110.05414)
 0. another item
 {: reversed="reversed"}
 
