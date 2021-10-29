@@ -6,10 +6,10 @@ layout: default
 [Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)         
 
 ### Junior Researchers
-[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en) (Graduate Student)           
-Saurabh Chandra Kandpal (Graduate Student)          
-Susmita Tripathy (Graduate Student)      
-Sai Vijay Mocherla (Junior Research Fellow)      
+[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en)              
+Saurabh Chandra Kandpal           
+Susmita Tripathy       
+[Sai Vijay Mocherla](https://vijaymocherla.github.io/)      
 
 ### Alumni
 [Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en)      
