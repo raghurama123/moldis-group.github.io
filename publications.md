@@ -39,23 +39,23 @@ layout: default
    ## 2018
 1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174), J. Chem. Theory Comput.    
 
+1. [_Generalized DFTB repulsive potentials from unsupervised machine learning_](https://doi.org/10.1021/acs.jctc.7b00933), J. Chem. Theory Comput.    
+
+   ## 2017
+1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038), J. Phys. Chem. Lett.   
 
 
-    Diana Tahchieva, Dirk Bakowies, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
-    Journal of Chemical Theory and Computation, 14 (2018) 4806-4817.
-    Generalized DFTB repulsive potentials from unsupervised machine learning
-    J. J. Kranz, M. Kubillus, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, M. Elstner
-    Journal of Chemical Theory and Computation, 14 (2018) 2341-2352.
-    Genetic optimization of training sets for improved machine learning models of molecular properties
-    Nicholas J. Browning, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, Ursula Röthlisberger,
-    Journal of Physical Chemistry Letters, 8 (2017) 1351-1359.
+
     Machine learning, quantum mechanics, chemical compound space
     Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
     Reviews in Computational Chemistry, Vol.30,  225-250 (2017).
+    
     Fast and accurate predictions of covalent bonds in chemical space
     K. Y. Samuel Chang, Stijn Fias, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
     The Journal of Chemical Physics, 144 (2016) 174110.
     Electronic spectra from TDDFT and machine learning in chemical space
+    
+    
     Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld
     The Journal of Chemical Physics, 143 (2015) 084111.
     Machine learning for quantum mechanical properties of atoms in molecules
@@ -79,12 +79,16 @@ layout: default
     Charge transfer dynamics from adsorbates to surfaces with single active electron and configuration interaction based approaches
     Raghunathan Ramakrishnan, Mathias Nest
     Chemical Physics, 446 (2015) 24-29.
+    
+    
     Quantum chemistry structures and properties of 134 kilo molecules
     Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld
     Scientific Data 1, Article number: 140022 (2014).
     Vibrational energy levels of difluorodioxirane computed with variational and perturbative methods from a hybrid force field
     Raghunathan Ramakrishnan, Tucker Carrington, Jr.
     Spectrochimica Acta A, 119 (2014) 107–112.
+    
+    
     Electron dynamics across molecular wires: A time-dependent configuration interaction study
     Raghunathan Ramakrishnan, Shampa Raghunathan, Mathias Nest
     Chemical Physics, 420 (2013) 44–49.
