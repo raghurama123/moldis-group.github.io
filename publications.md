@@ -2,7 +2,7 @@
 layout: default
 ---
 
-    ## submitted
+   ## submitted
 
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798), arxiv (2021)    
   
