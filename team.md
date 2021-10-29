@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## Members
-[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en) (PI)         
+[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en)         
 
-### Present members
+### Junior Researchers
 [Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en) (Graduate Student)           
 Saurabh Chandra Kandpal (Graduate Student)          
 Susmita Tripathy (Graduate Student)      
