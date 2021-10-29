@@ -10,39 +10,29 @@ layout: default
 
 1. [_All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1), chemrxiv, submitted (2021) 
     
-    
-   ## 2021    
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol.    
 
-1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C), Chemical Science
+1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C), Chemical Science (2021)
 
-1. [_Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347), Mach. Learn.: Sci. Technol. 
+1. [_Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347), Mach. Learn.: Sci. Technol. (2021) 
 
-1. [_High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials_](https://doi.org/10.1063/5.0041717), J. Chem. Phys.    
+1. [_High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials_](https://doi.org/10.1063/5.0041717), J. Chem. Phys. (2021)    
 
-1. [_Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_](https://doi.org/10.1063/5.0032713), J. Chem. Phys. 
+1. [_Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_](https://doi.org/10.1063/5.0032713), J. Chem. Phys. (2021) 
 
-1. [_Quantum Interference in Real-Time Electron-Dynamics: Gaining Insights from Time-Dependent Configuration Interaction Simulations_](https://doi.org/10.1063/5.0009196), J. Chem. Phys.   
+1. [_Quantum Interference in Real-Time Electron-Dynamics: Gaining Insights from Time-Dependent Configuration Interaction Simulations_](https://doi.org/10.1063/5.0009196), J. Chem. Phys. (2021)   
 
-   ## 2020   
-1. [_Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase_](https://doi.org/10.1039/D0CP01396J), Phys. Chem. Chem. Phys.
+1. [_Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase_](https://doi.org/10.1039/D0CP01396J), Phys. Chem. Chem. Phys. (2020)
 
+1. [_Machine learning modeling of Wigner intracule functionals for two electrons in one dimension_](https://doi.org/10.1063/1.5089597), J. Chem. Phys. (2019)      
+1. [_The Chemical Space of B,N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling_](https://doi.org/10.1063/1.5088083), J. Chem. Phys. (2019)   
 
-   ## 2019
-1. [_Machine learning modeling of Wigner intracule functionals for two electrons in one dimension_](https://doi.org/10.1063/1.5089597), J. Chem. Phys.       
+1. [_Exact separation of radial and angular correlation energies in two-electron atoms_](https://doi.org/10.1016/j.cplett.2019.02.004), Chem. Phys. Lett. (2019)        
+1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174), J. Chem. Theory Comput. (2018)    
 
-1. [_The Chemical Space of B,N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling_](https://doi.org/10.1063/1.5088083), J. Chem. Phys.   
+1. [_Generalized DFTB repulsive potentials from unsupervised machine learning_](https://doi.org/10.1021/acs.jctc.7b00933), J. Chem. Theory Comput. (2018)    
 
-1. [_Exact separation of radial and angular correlation energies in two-electron atoms_](https://doi.org/10.1016/j.cplett.2019.02.004), Chem. Phys. Lett.        
-
-
-   ## 2018
-1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174), J. Chem. Theory Comput.    
-
-1. [_Generalized DFTB repulsive potentials from unsupervised machine learning_](https://doi.org/10.1021/acs.jctc.7b00933), J. Chem. Theory Comput.    
-
-   ## 2017
-1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038), J. Phys. Chem. Lett.   
+1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038), J. Phys. Chem. Lett. (2017)     
 
 
 
