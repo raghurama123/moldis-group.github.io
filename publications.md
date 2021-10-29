@@ -13,7 +13,6 @@ layout: default
 
 ### 2021          
 1. [Machine Learning Modeling of Materials with a Group-Subgroup Structure](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol.    
-
 {: reversed="reversed"}
 
     Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma (Supplementary Material) (Raw input/output files on NOMAD)
