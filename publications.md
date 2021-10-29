@@ -24,11 +24,11 @@ layout: default
 
 1. [_Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase_](https://doi.org/10.1039/D0CP01396J), Phys. Chem. Chem. Phys.
 
+1. [_Quantum Interference in Real-Time Electron-Dynamics: Gaining Insights from Time-Dependent Configuration Interaction Simulations_](https://doi.org/10.1063/5.0009196), J. Chem. Phys.   
 
 
-    Quantum Interference in Real-Time Electron-Dynamics: Gaining Insights from Time-Dependent Configuration Interaction Simulations
-    Raghunathan Ramakrishnan
-    The Journal of Chemical Physics, 152 (2020) 194111.
+
+
     Machine learning modeling of Wigner intracule functionals for two electrons in one dimension
     Rutvij Vihang Bhavsar, Raghunathan Ramakrishnan
     The Journal of Chemical Physics,150 (2019) 144114.
