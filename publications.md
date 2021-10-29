@@ -13,7 +13,7 @@ layout: default
     ## 2021
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol.    
 
-1. [_Troubleshooting Unstable Molecules in Chemical Space ](https://doi.org/10.1039/D0SC05591C), Chemical Science
+1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C), Chemical Science
 
 
     Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma (Supplementary Material) (Raw input/output files on NOMAD)
