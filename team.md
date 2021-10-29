@@ -5,28 +5,28 @@ layout: default
 ## Members
 
 ### Present members
-Raghunathan Ramakrishnan (PI)         
-Sabyasachi Chakraborty (Graduate Student)           
+[Raghunathan Ramakrishnan](https://scholar.google.com/citations?user=jSCGozoAAAAJ&hl=en) (PI)         
+[Sabyasachi Chakraborty](https://scholar.google.com/citations?user=SQsR-gYAAAAJ&hl=en) (Graduate Student)           
 Saurabh Chandra Kandpal (Graduate Student)          
 Susmita Tripathy (Graduate Student)      
 Sai Vijay Mocherla (Junior Research Fellow)      
 
 ### Alumni
-Prakriti Kayastha      
+[Prakriti Kayastha](https://scholar.google.com/citations?user=XIU5zG4AAAAJ&hl=en)      
 – B.Sc. in Physics, Shiv Nadar University, Noida, India      
 – (2017 VSRP fellow with us)      
 – (June 2018 – May 2020, Junior Research Fellow with us)      
 – (May 2020 – September 2021, Senior Research Fellow with us)      
 – Since October 2021, Doctoral student at the Department of Mathematics, Physics and Electrical Engineering, Northumbria University, UK.      
 
-Salini Senthil      
+[Salini Senthil](https://scholar.google.com/citations?user=gQqXsJAAAAAJ&hl=en)      
 – B.Tech in Electrochemistry, Central Electrochemical Research Institute, Karaikudi, India      
 – (2017 VSRP fellow with us)      
 – (June 2018 – May 2020, Junior Research Fellow with us)      
 – (May 2020 – September 2021, Senior Research Fellow with us)      
 – Since October 2021, in Industry (R&D sector)      
 
-Amit Gupta      
+[Amit Gupta](https://scholar.google.com/citations?user=PMsv6NAAAAAJ&hl=en)      
 – Ph.D. in Chemistry, Indian Institute of Science, Bangalore, India      
 – (August 2018 – July 2021, Research Associate with us)      
 – Since August 2021, Research Associate at the University of Minnesota, USA      
