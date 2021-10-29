@@ -10,8 +10,6 @@ layout: default
 
 1. [All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations](https://doi.org/10.26434/chemrxiv.14524890.v1), chemrxiv (2021)     
 
-
-### 2021          
 1. [Machine Learning Modeling of Materials with a Group-Subgroup Structure](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol.    
 
 
