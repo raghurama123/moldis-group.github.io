@@ -7,16 +7,20 @@ layout: default
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
 Prakriti Kayastha, Raghunathan Ramakrishnan     
 submitted (2021)        
-[Supplementary Material: bigQM7w database](https://moldis-group.github.io/bigQM7w)           
+[Supplementary Material: bigQM7w database project website](https://moldis-group.github.io/bigQM7w)           
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
        
 1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414)    
 Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
 submitted (2021)     
-[Supplementary Material: BODIPYs database](https://moldis-group.github.io/BODIPYs/)            
+[Supplementary Material: BODIPYs database project website](https://moldis-group.github.io/BODIPYs/)            
 [Web-based QML model for querying on 253 Billion BODIPY moleucules](https://moldis.tifrh.res.in/db/bodipy)        
 
-1.[_All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1), chemrxiv, submitted (2021) 
+1.[ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)
+Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
+submitted (2021)        
+[Supplementary Material: The Pople Code project website](https://moldis-group.github.io/pople/)     
+[Code](https://github.com/moldis-group/pople_package)         
     
 1.[_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol. (2021)       
 
