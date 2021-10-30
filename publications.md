@@ -23,7 +23,7 @@ submitted (2021)
     
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9)       
 Prakriti Kayastha, Raghunathan Ramakrishnan           
-Mach. Learn.: Sci. Technol. (2021)        
+Machine Learning: Science and Technology, 2 (2021) 035035.                 
 [FriezeRMQ1D dataset](https://moldis-group.github.io/friezermq1d/)         
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)             
 
