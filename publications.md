@@ -16,7 +16,7 @@ submitted (2021)
 [Supplementary Material: BODIPYs database project website](https://moldis-group.github.io/BODIPYs/)            
 [Web-based QML model for querying on 253 Billion BODIPY moleucules](https://moldis.tifrh.res.in/db/bodipy)        
 
-1.[ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)
+1. [ _All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1)
 Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
 submitted (2021)        
 [Supplementary Material: The Pople Code project website](https://moldis-group.github.io/pople/)     
