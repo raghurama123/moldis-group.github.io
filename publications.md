@@ -40,14 +40,15 @@ submitted (2021)
     Raghunathan Ramakrishnan, O. Anatole von Lilienfeld         
     Reviews in Computational Chemistry, Vol.30,  225-250 (2017).
     
-    Fast and accurate predictions of covalent bonds in chemical space
-    K. Y. Samuel Chang, Stijn Fias, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
-    The Journal of Chemical Physics, 144 (2016) 174110.
-    Electronic spectra from TDDFT and machine learning in chemical space
+1. [_Fast and accurate predictions of covalent bonds in chemical space_](https://doi.org/10.1063/1.4947217)              
+    K. Y. Samuel Chang, Stijn Fias, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld            
+    The Journal of Chemical Physics, 144 (2016) 174110.               
+    
+1.  [_Electronic spectra from TDDFT and machine learning in chemical space_](https://doi.org/10.1063/1.4928757)        
+    Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld        
+    The Journal of Chemical Physics, 143 (2015) 084111.             
     
     
-    Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld
-    The Journal of Chemical Physics, 143 (2015) 084111.
     Machine learning for quantum mechanical properties of atoms in molecules
     Matthias Rupp, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
     Journal of Physical Chemistry Letters, 6 (2015) 3309-3313.
