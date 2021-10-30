@@ -10,7 +10,7 @@ submitted (2021)
 [Supplementary Material: bigQM7w database](https://moldis-group.github.io/bigQM7w)           
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
        
-1.[_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414)    
+1. [_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414)    
 Amit Gupta, Sabyasachi Chakraborty, Debashree Ghosh, Raghunathan Ramakrishnan          
 submitted (2021)     
 [Supplementary Material: BODIPYs database](https://moldis-group.github.io/BODIPYs/)            
