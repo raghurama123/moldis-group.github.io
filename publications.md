@@ -55,13 +55,25 @@ The Journal of Chemical Physics, 154 (2021) 044113.
 Raghunathan Ramakrishnan                   
 The Journal of Chemical Physics, 152 (2020) 194111.               
 
-1. [_Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase_](https://doi.org/10.1039/D0CP01396J), Phys. Chem. Chem. Phys. (2020)
+1. [_Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase_](https://doi.org/10.1039/D0CP01396J)             
+Ardita Kilaj, Hong Gao, Diana Nikolaeva Tahchieva, Raghunathan Ramakrishnan, Daniel G Bachmann, Dennis Gillingham, Anatole von Lilienfeld, Jochen Küpper, Stefan Willitsch                    
+Physical Chemistry Chemical Physics, 22 (2020) 13431-13439.                   
 
-1. [_Machine learning modeling of Wigner intracule functionals for two electrons in one dimension_](https://doi.org/10.1063/1.5089597), J. Chem. Phys. (2019)      
-1. [_The Chemical Space of B,N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling_](https://doi.org/10.1063/1.5088083), J. Chem. Phys. (2019)   
+1. [_Machine learning modeling of Wigner intracule functionals for two electrons in one dimension_](https://doi.org/10.1063/1.5089597)                  
+Rutvij Vihang Bhavsar, Raghunathan Ramakrishnan            
+The Journal of Chemical Physics,150 (2019) 144114.              
 
-1. [_Exact separation of radial and angular correlation energies in two-electron atoms_](https://doi.org/10.1016/j.cplett.2019.02.004), Chem. Phys. Lett. (2019)          
-1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174), J. Chem. Theory Comput. (2018)    
+1. [_The Chemical Space of B,N-substituted Polycyclic Aromatic Hydrocarbons: Combinatorial Enumeration and High-Throughput First-Principles Modeling_](https://doi.org/10.1063/1.5088083)                         
+Sabyasachi Chakraborty, Prakriti Kayastha, Raghunathan Ramakrishnan                  
+The Journal of Chemical Physics,150 (2019) 114106.           
+[BNPAH dataset](https://drive.google.com/open?id=1rGzoE5f7sLy1NUPsIhao3b1tgPDB_RDC)            
+
+1. [_Exact separation of radial and angular correlation energies in two-electron atoms_](https://doi.org/10.1016/j.cplett.2019.02.004)                
+Anjana R Kammath, Raghunathan Ramakrishnan                  
+Chemical Physics Letters, 720 (2019) 93–96.                
+
+
+3. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174), J. Chem. Theory Comput. (2018)    
 
 1. [_Generalized DFTB repulsive potentials from unsupervised machine learning_](https://doi.org/10.1021/acs.jctc.7b00933), J. Chem. Theory Comput. (2018)    
 
