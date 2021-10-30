@@ -27,12 +27,12 @@ Machine Learning: Science and Technology, 2 (2021) 035035.
 [FriezeRMQ1D dataset](https://moldis-group.github.io/friezermq1d/)         
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)             
 
-1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C)
-Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
-Chemical Science 12 (2021) 5566.
-[Supplementary Information: PDF file](http://www.rsc.org/suppdata/d0/sc/d0sc05591c/d0sc05591c1.pdf)
-[ConnGO code](https://github.com/salinisenthil/ConnGO)
-[Curated QM9 dataset](https://moldis-group.github.io/curatedQM9/)
+1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C)            
+Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan                   
+Chemical Science 12 (2021) 5566.                   
+[Supplementary Information: PDF file](http://www.rsc.org/suppdata/d0/sc/d0sc05591c/d0sc05591c1.pdf)               
+[ConnGO code](https://github.com/salinisenthil/ConnGO)                 
+[Curated QM9 dataset](https://moldis-group.github.io/curatedQM9/)                   
 
 1. [_Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347), Mach. Learn.: Sci. Technol. (2021) 
 
