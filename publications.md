@@ -46,14 +46,14 @@ The Journal of Chemical Physics, 154 (2021) 061102.
 [MolDis data-mining platform](https://moldis.tifrh.res.in/data/rmq1d)                 
 [Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.03-1)
 
-High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials (Supplementary Material) (Data-mining on MolDis) (Raw input/output files on NOMAD)
+1. [_Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_](https://doi.org/10.1063/5.0032713)                  
+Sambit Kumar Das, Sabyasachi Chakraborty, Raghunathan Ramakrishnan                    
+The Journal of Chemical Physics, 154 (2021) 044113.                      
+[prunedHOF dataset](https://moldis-group.github.io/prunedhof/)         
 
-
-
-
-1. [_Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_](https://doi.org/10.1063/5.0032713), J. Chem. Phys. (2021) 
-
-1. [_Quantum Interference in Real-Time Electron-Dynamics: Gaining Insights from Time-Dependent Configuration Interaction Simulations_](https://doi.org/10.1063/5.0009196), J. Chem. Phys. (2021)   
+1. [_Quantum Interference in Real-Time Electron-Dynamics: Gaining Insights from Time-Dependent Configuration Interaction Simulations_](https://doi.org/10.1063/5.0009196)              
+Raghunathan Ramakrishnan                   
+The Journal of Chemical Physics, 152 (2020) 194111.               
 
 1. [_Quantum-chemistry-aided identification, synthesis and experimental validation of model systems for conformationally controlled reaction studies: separation of the conformers of 2,3-dibromobuta-1,3-diene in the gas phase_](https://doi.org/10.1039/D0CP01396J), Phys. Chem. Chem. Phys. (2020)
 
