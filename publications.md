@@ -6,8 +6,10 @@ layout: default
 
 1. [_Quantum Machine Learning Transition Probabilities in Electronic Excitation Spectra across Chemical Space: The Resolution-vs.-Accuracy Dilemma_](https://arxiv.org/abs/2110.11798)    
 Prakriti Kayastha, Raghunathan Ramakrishnan     
-submitted (2021)   
-
+submitted (2021)
+[Supplementary Material: bigQM7w database](https://moldis-group.github.io/bigQM7w)      
+[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.09.30-1)
+       
 1.[_Data-Driven Modeling of S0 -> S1 Excitation Energy in the BODIPY Chemical Space: High-Throughput Computation, Quantum Machine Learning, and Inverse Design_](https://arxiv.org/abs/2110.05414), arxiv, submitted (2021)     
 
 1.[_All hands on deck: Accelerating ab initio thermochemistry via wavefunction approximations_](https://doi.org/10.26434/chemrxiv.14524890.v1), chemrxiv, submitted (2021) 
