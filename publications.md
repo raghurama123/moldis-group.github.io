@@ -23,9 +23,9 @@ submitted (2021)
     
 1. [_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9)       
 Prakriti Kayastha, Raghunathan Ramakrishnan           
-Mach. Learn.: Sci. Technol. (2021)
-[FriezeRMQ1D dataset](https://moldis-group.github.io/friezermq1d/)        
-[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)       
+Mach. Learn.: Sci. Technol. (2021)        
+[FriezeRMQ1D dataset](https://moldis-group.github.io/friezermq1d/)         
+[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.13-1)             
 
 1. [_Troubleshooting Unstable Molecules in Chemical Space_](https://doi.org/10.1039/D0SC05591C), Chemical Science (2021)
 
