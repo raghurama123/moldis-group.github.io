@@ -34,9 +34,22 @@ Chemical Science 12 (2021) 5566.
 [ConnGO code](https://github.com/salinisenthil/ConnGO)                 
 [Curated QM9 dataset](https://moldis-group.github.io/curatedQM9/)                   
 
-1. [_Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347), Mach. Learn.: Sci. Technol. (2021) 
+1. [_Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347)           
+Amit Gupta, Sabyasachi Chakraborty, Raghunathan Ramakrishnan                
+Machine Learning: Science and Technology, 2 (2021) 035010.    
+[Supplementary Information: PDF file](https://moldis-group.github.io/qm9nmr)
 
-1. [_High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials_](https://doi.org/10.1063/5.0041717), J. Chem. Phys. (2021)    
+1. [_High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials_](https://doi.org/10.1063/5.0041717)            
+Prakriti Kayastha, Raghunathan Ramakrishnan                 
+The Journal of Chemical Physics, 154 (2021) 061102.             
+[Supplementary Information: PDF file](https://aip.scitation.org/doi/suppl/10.1063/5.0041717/suppl_file/suppinfo.pdf)                           
+[MolDis data-mining platform](https://moldis.tifrh.res.in/data/rmq1d)                 
+[Raw input/output files on NOMAD](https://dx.doi.org/10.17172/NOMAD/2021.02.03-1)
+
+High-Throughput Design of Peierls and Charge Density Wave Phases in Q1D Organometallic Materials (Supplementary Material) (Data-mining on MolDis) (Raw input/output files on NOMAD)
+
+
+
 
 1. [_Critical Benchmarking of the G4(MP2) Model, the Correlation Consistent Composite Approach and Popular Density Functional Approximations on a Probabilistically Pruned Benchmark Dataset of Formation Enthalpies_](https://doi.org/10.1063/5.0032713), J. Chem. Phys. (2021) 
 
