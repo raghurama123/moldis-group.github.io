@@ -36,10 +36,8 @@ submitted (2021)
 
 1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038), J. Phys. Chem. Lett. (2017)     
 
-
-
-    Machine learning, quantum mechanics, chemical compound space
-    Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
+1. [_Machine learning, quantum mechanics, chemical compound space_](https://doi.org/10.1002/9781119356059.ch5)      
+    Raghunathan Ramakrishnan, O. Anatole von Lilienfeld         
     Reviews in Computational Chemistry, Vol.30,  225-250 (2017).
     
     Fast and accurate predictions of covalent bonds in chemical space
