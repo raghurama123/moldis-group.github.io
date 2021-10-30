@@ -20,7 +20,7 @@ submitted (2021)
 Sambit Kumar Das, Salini Senthil, Sabyasachi Chakraborty, Raghunathan Ramakrishnan
 submitted (2021)        
 [Supplementary Material: The Pople Code project website](https://moldis-group.github.io/pople/)     
-[Code](https://github.com/moldis-group/pople_package)         
+[Code on Github](https://github.com/moldis-group/pople_package)         
     
 1.[_Machine Learning Modeling of Materials with a Group-Subgroup Structure_](https://doi.org/10.1088/2632-2153/abffe9), Mach. Learn.: Sci. Technol. (2021)       
 
