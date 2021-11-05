@@ -81,7 +81,7 @@ J. J. Kranz, M. Kubillus, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, M
 Journal of Chemical Theory and Computation, 14 (2018) 2341-2352.           
 
 1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038)      
-Nicholas J. Browning, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, Ursula Röthlisberger,      
+Nicholas J. Browning, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, Ursula Röthlisberger         
 Journal of Physical Chemistry Letters, 8 (2017) 1351-1359.    
 
 1. [_Machine learning, quantum mechanics, chemical compound space_](https://doi.org/10.1002/9781119356059.ch5)      
