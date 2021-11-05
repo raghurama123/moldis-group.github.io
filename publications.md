@@ -153,15 +153,15 @@ Physics Review A, 85 (2012) 054501.
     Theoretical Chemistry Accounts, 130 (2011) 361–369.      
     
 1.  [_Effects of the self-interaction error in Kohn-Sham calculations: A DFT + U case study on pentaaqua uranyl(VI)_](http://dx.doi.org/10.1016/j.comptc.2010.10.043)
-    Raghunathan Ramakrishnan, Alexei V. Matveev, Notker Rösch
+    Raghunathan Ramakrishnan, Alexei V. Matveev, Notker Rösch     
     Computational and Theoretical Chemistry, 963 (2011) 337–343.
     
 1.  [_The DFT + U method in the linear combination of Gaussian-type orbitals framework: Role of 4f orbitals in the bonding of LuF3_](http://dx.doi.org/10.1016/j.cplett.2008.12.021)
-    Raghunathan Ramakrishnan, Alexei V. Matveev, Notker Rösch
+    Raghunathan Ramakrishnan, Alexei V. Matveev, Notker Rösch      
     Chemical Physics Letters, 468 (2009) 158–161.
     
 1.  [_Manifestation of diamagnetic chemical shifts of proton NMR signals by an anisotropic shielding effect of nitrate anions_](http://www.sciencedirect.com/science/article/pii/S0040403906024154)   
-    Himansu Sekhar Sahoo, Dillip Kumar Chand, S. Mahalakshmi, Md. Hedayetullah Mir, Raghunathan Ramakrishnan
+    Himansu Sekhar Sahoo, Dillip Kumar Chand, S. Mahalakshmi, Md. Hedayetullah Mir, Raghunathan Ramakrishnan      
     Tetrahedron letters, 48 (2007) 761–765.
 
 
