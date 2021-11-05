@@ -136,25 +136,31 @@ Spectrochimica Acta A, 119 (2014) 107–112.
 Raghunathan Ramakrishnan, Shampa Raghunathan, Mathias Nest      
 Chemical Physics, 420 (2013) 44–49.
     
-    A simple Hückel molecular orbital plotter
-    Raghunathan Ramakrishnan
-    Journal of Chemical Education, 90 (2013) 132–133.
-    Control and analysis of single-determinant electron dynamics
-    Raghunathan Ramakrishnan, Mathias Nest
-    Physics Review A, 85 (2012) 054501.
-    Coherent control time-dependent methods for determining eigenvalues of Hermitian matrices with applications to electronic structure computations
-    Raghunathan Ramakrishnan, Mathias Nest, Eli Pollak
-    Molecular Physics, 110 (2012) 861–873.
-    Self-interaction artifacts on structural features of uranyl monohydroxide from Kohn-Sham calculations
-    Raghunathan Ramakrishnan, Alexei V. Matveev, Sven Krüger, Notker Rösch
-    Theoretical Chemistry Accounts, 130 (2011) 361–369.
-    Effects of the self-interaction error in Kohn-Sham calculations: A DFT + U case study on pentaaqua uranyl(VI)
+1.  [_A simple Hückel molecular orbital plotter_](http://dx.doi.org/10.1021/ed300085g)      
+Raghunathan Ramakrishnan       
+Journal of Chemical Education, 90 (2013) 132–133.       
+
+1.  [_Control and analysis of single-determinant electron dynamics_](http://dx.doi.org/10.1103/PhysRevA.85.054501)      
+Raghunathan Ramakrishnan, Mathias Nest      
+Physics Review A, 85 (2012) 054501.
+
+1.  [_Coherent control time-dependent methods for determining eigenvalues of Hermitian matrices with applications to electronic structure computations_](http://dx.doi.org/10.1080/00268976.2012.668967)
+    Raghunathan Ramakrishnan, Mathias Nest, Eli Pollak      
+    Molecular Physics, 110 (2012) 861–873.     
+    
+1.  [_Self-interaction artifacts on structural features of uranyl monohydroxide from Kohn-Sham calculations_](http://dx.doi.org/10.1007/s00214-011-0999-4)      
+    Raghunathan Ramakrishnan, Alexei V. Matveev, Sven Krüger, Notker Rösch      
+    Theoretical Chemistry Accounts, 130 (2011) 361–369.      
+    
+1.  [_Effects of the self-interaction error in Kohn-Sham calculations: A DFT + U case study on pentaaqua uranyl(VI)_](http://dx.doi.org/10.1016/j.comptc.2010.10.043)
     Raghunathan Ramakrishnan, Alexei V. Matveev, Notker Rösch
     Computational and Theoretical Chemistry, 963 (2011) 337–343.
-    The DFT + U method in the linear combination of Gaussian-type orbitals framework: Role of 4f orbitals in the bonding of LuF3
+    
+1.  [_The DFT + U method in the linear combination of Gaussian-type orbitals framework: Role of 4f orbitals in the bonding of LuF3_](http://dx.doi.org/10.1016/j.cplett.2008.12.021)
     Raghunathan Ramakrishnan, Alexei V. Matveev, Notker Rösch
     Chemical Physics Letters, 468 (2009) 158–161.
-    Manifestation of diamagnetic chemical shifts of proton NMR signals by an anisotropic shielding effect of nitrate anions
+    
+1.  [_Manifestation of diamagnetic chemical shifts of proton NMR signals by an anisotropic shielding effect of nitrate anions_](http://www.sciencedirect.com/science/article/pii/S0040403906024154)   
     Himansu Sekhar Sahoo, Dillip Kumar Chand, S. Mahalakshmi, Md. Hedayetullah Mir, Raghunathan Ramakrishnan
     Tetrahedron letters, 48 (2007) 761–765.
 
