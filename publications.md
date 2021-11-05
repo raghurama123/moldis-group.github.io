@@ -97,44 +97,44 @@ Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienf
 The Journal of Chemical Physics, 143 (2015) 084111.             
     
 1.  [_Machine learning for quantum mechanical properties of atoms in molecules_](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01456)            
-Matthias Rupp, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
+Matthias Rupp, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld       
 Journal of Physical Chemistry Letters, 6 (2015) 3309-3313.
     
 1.  [_Machine learning predictions of molecular properties: Accurate many-body potentials and non-locality in chemical space_](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b00831)         
-Katja Hansen, Franziska Biegler, Raghunathan Ramakrishnan, Wiktor Pronobis, O. Anatole von Lilienfeld, Klaus-Robert Müller, Alexandre Tkatchenko
-Journal of Physical Chemistry Letters, 6 (2015) 2326–2331.
+Katja Hansen, Franziska Biegler, Raghunathan Ramakrishnan, Wiktor Pronobis, O. Anatole von Lilienfeld, Klaus-Robert Müller, Alexandre Tkatchenko     
+Journal of Physical Chemistry Letters, 6 (2015) 2326–2331. 
     
-1.  [_Big data meets quantum chemistry approximations: The delta-machine learning approach_](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00099)         
-    Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld
-    Journal of Chemical Theory and Computation, 11 (2015) 2087–2096.
+1.  [_Big data meets quantum chemistry approximations: The delta-machine learning approach_](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00099)            
+Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld     
+Journal of Chemical Theory and Computation, 11 (2015) 2087–2096.
     
 1.  [_Semi-quartic force fields retrieved from multi-mode expansions: Accuracy, scaling behavior and approximations_](http://scitation.aip.org/content/aip/journal/jcp/142/15/10.1063/1.4918587)        
     Raghunathan Ramakrishnan, Guntram Rauhut
     The Journal of Chemical Physics, 142 (2015) 154118.
     
 1.  [_Many molecular properties from one kernel in chemical space_](http://www.ingentaconnect.com/content/scs/chimia/2015/00000069/00000004/art00005)       
-    Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
-    Chimia, 69 (2015) 182-186.
+Raghunathan Ramakrishnan, O. Anatole von Lilienfeld      
+Chimia, 69 (2015) 182-186.
     
 1.  [_Fourier series of atomic radial distribution functions: A molecular fingerprint for machine learning models of quantum chemical properties_](http://onlinelibrary.wiley.com/doi/10.1002/qua.24912/full)            
-    O. Anatole von Lilienfeld, Raghunathan Ramakrishnan, Matthias Rupp, Aaron Knoll
-    International Journal of Quantum Chemistry, 115 (2015) 1084-1093.
+O. Anatole von Lilienfeld, Raghunathan Ramakrishnan, Matthias Rupp, Aaron Knoll     
+International Journal of Quantum Chemistry, 115 (2015) 1084-1093.
     
 1.  [_Charge transfer dynamics from adsorbates to surfaces with single active electron and configuration interaction based approaches_](http://www.sciencedirect.com/science/article/pii/S0301010414003036)           
-    Raghunathan Ramakrishnan, Mathias Nest
-    Chemical Physics, 446 (2015) 24-29.
+Raghunathan Ramakrishnan, Mathias Nest     
+Chemical Physics, 446 (2015) 24-29.
     
 1.  [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)           
-    Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld
-    Scientific Data 1, Article number: 140022 (2014).
+Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld           
+Scientific Data 1, Article number: 140022 (2014).
     
 1.  [_Vibrational energy levels of difluorodioxirane computed with variational and perturbative methods from a hybrid force field_](http://dx.doi.org/10.1016/j.saa.2012.11.104)            
-    Raghunathan Ramakrishnan, Tucker Carrington, Jr.
-    Spectrochimica Acta A, 119 (2014) 107–112.
+Raghunathan Ramakrishnan, Tucker Carrington, Jr.    
+Spectrochimica Acta A, 119 (2014) 107–112.
     
 1.  [_Electron dynamics across molecular wires: A time-dependent configuration interaction study_](http://dx.doi.org/10.1016/j.chemphys.2013.05.001)        
-    Raghunathan Ramakrishnan, Shampa Raghunathan, Mathias Nest
-    Chemical Physics, 420 (2013) 44–49.
+Raghunathan Ramakrishnan, Shampa Raghunathan, Mathias Nest      
+Chemical Physics, 420 (2013) 44–49.
     
     A simple Hückel molecular orbital plotter
     Raghunathan Ramakrishnan
