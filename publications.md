@@ -72,32 +72,37 @@ The Journal of Chemical Physics,150 (2019) 114106.
 Anjana R Kammath, Raghunathan Ramakrishnan                  
 Chemical Physics Letters, 720 (2019) 93–96.                
 
+1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174)
+Diana Tahchieva, Dirk Bakowies, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld      
+Journal of Chemical Theory and Computation, 14 (2018) 4806-4817.                  
 
-3. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174), J. Chem. Theory Comput. (2018)    
+1. [_Generalized DFTB repulsive potentials from unsupervised machine learning_](https://doi.org/10.1021/acs.jctc.7b00933)                 
+J. J. Kranz, M. Kubillus, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, M. Elstner           
+Journal of Chemical Theory and Computation, 14 (2018) 2341-2352.           
 
-1. [_Generalized DFTB repulsive potentials from unsupervised machine learning_](https://doi.org/10.1021/acs.jctc.7b00933), J. Chem. Theory Comput. (2018)    
-
-1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038), J. Phys. Chem. Lett. (2017)     
+1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038)
+Nicholas J. Browning, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, Ursula Röthlisberger,      
+Journal of Physical Chemistry Letters, 8 (2017) 1351-1359.    
 
 1. [_Machine learning, quantum mechanics, chemical compound space_](https://doi.org/10.1002/9781119356059.ch5)      
-    Raghunathan Ramakrishnan, O. Anatole von Lilienfeld         
-    Reviews in Computational Chemistry, Vol.30,  225-250 (2017).
+Raghunathan Ramakrishnan, O. Anatole von Lilienfeld         
+Reviews in Computational Chemistry, Vol.30,  225-250 (2017).
     
 1. [_Fast and accurate predictions of covalent bonds in chemical space_](https://doi.org/10.1063/1.4947217)              
-    K. Y. Samuel Chang, Stijn Fias, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld            
-    The Journal of Chemical Physics, 144 (2016) 174110.               
+K. Y. Samuel Chang, Stijn Fias, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld            
+The Journal of Chemical Physics, 144 (2016) 174110.               
     
-1.  [_Electronic spectra from TDDFT and machine learning in chemical space_](https://doi.org/10.1063/1.4928757)         
-    Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld        
-    The Journal of Chemical Physics, 143 (2015) 084111.             
+1.  [_Electronic spectra from TDDFT and machine learning in chemical space_](https://doi.org/10.1063/1.4928757)            
+Raghunathan Ramakrishnan, Mia Hartmann, Enrico Tapavicza, O. Anatole von Lilienfeld        
+The Journal of Chemical Physics, 143 (2015) 084111.             
     
 1.  [_Machine learning for quantum mechanical properties of atoms in molecules_](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01456)            
-    Matthias Rupp, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
-    Journal of Physical Chemistry Letters, 6 (2015) 3309-3313.
+Matthias Rupp, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld
+Journal of Physical Chemistry Letters, 6 (2015) 3309-3313.
     
 1.  [_Machine learning predictions of molecular properties: Accurate many-body potentials and non-locality in chemical space_](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b00831)         
-    Katja Hansen, Franziska Biegler, Raghunathan Ramakrishnan, Wiktor Pronobis, O. Anatole von Lilienfeld, Klaus-Robert Müller, Alexandre Tkatchenko
-    Journal of Physical Chemistry Letters, 6 (2015) 2326–2331.
+Katja Hansen, Franziska Biegler, Raghunathan Ramakrishnan, Wiktor Pronobis, O. Anatole von Lilienfeld, Klaus-Robert Müller, Alexandre Tkatchenko
+Journal of Physical Chemistry Letters, 6 (2015) 2326–2331.
     
 1.  [_Big data meets quantum chemistry approximations: The delta-machine learning approach_](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00099)         
     Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld
