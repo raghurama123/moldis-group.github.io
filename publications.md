@@ -72,7 +72,7 @@ The Journal of Chemical Physics,150 (2019) 114106.
 Anjana R Kammath, Raghunathan Ramakrishnan                  
 Chemical Physics Letters, 720 (2019) 93–96.                
 
-1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174)
+1. [_Torsional potentials of glyoxal, oxalyl halides and their thiocarbonyl derivatives: Challenges for DFT_](https://doi.org/10.1021/acs.jctc.8b00174)     
 Diana Tahchieva, Dirk Bakowies, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld      
 Journal of Chemical Theory and Computation, 14 (2018) 4806-4817.                  
 
@@ -80,7 +80,7 @@ Journal of Chemical Theory and Computation, 14 (2018) 4806-4817.
 J. J. Kranz, M. Kubillus, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, M. Elstner           
 Journal of Chemical Theory and Computation, 14 (2018) 2341-2352.           
 
-1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038)
+1. [_Genetic optimization of training sets for improved machine learning models of molecular properties_](https://doi.org/10.1021/acs.jpclett.7b00038)      
 Nicholas J. Browning, Raghunathan Ramakrishnan, O. Anatole von Lilienfeld, Ursula Röthlisberger,      
 Journal of Physical Chemistry Letters, 8 (2017) 1351-1359.    
 
@@ -109,7 +109,7 @@ Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfel
 Journal of Chemical Theory and Computation, 11 (2015) 2087–2096.
     
 1.  [_Semi-quartic force fields retrieved from multi-mode expansions: Accuracy, scaling behavior and approximations_](http://scitation.aip.org/content/aip/journal/jcp/142/15/10.1063/1.4918587)        
-    Raghunathan Ramakrishnan, Guntram Rauhut
+    Raghunathan Ramakrishnan, Guntram Rauhut     
     The Journal of Chemical Physics, 142 (2015) 154118.
     
 1.  [_Many molecular properties from one kernel in chemical space_](http://www.ingentaconnect.com/content/scs/chimia/2015/00000069/00000004/art00005)       
@@ -144,7 +144,7 @@ Journal of Chemical Education, 90 (2013) 132–133.
 Raghunathan Ramakrishnan, Mathias Nest      
 Physics Review A, 85 (2012) 054501.
 
-1.  [_Coherent control time-dependent methods for determining eigenvalues of Hermitian matrices with applications to electronic structure computations_](http://dx.doi.org/10.1080/00268976.2012.668967)
+1.  [_Coherent control time-dependent methods for determining eigenvalues of Hermitian matrices with applications to electronic structure computations_](http://dx.doi.org/10.1080/00268976.2012.668967)     
     Raghunathan Ramakrishnan, Mathias Nest, Eli Pollak      
     Molecular Physics, 110 (2012) 861–873.     
     
@@ -152,7 +152,7 @@ Physics Review A, 85 (2012) 054501.
     Raghunathan Ramakrishnan, Alexei V. Matveev, Sven Krüger, Notker Rösch      
     Theoretical Chemistry Accounts, 130 (2011) 361–369.      
     
-1.  [_Effects of the self-interaction error in Kohn-Sham calculations: A DFT + U case study on pentaaqua uranyl(VI)_](http://dx.doi.org/10.1016/j.comptc.2010.10.043)
+1.  [_Effects of the self-interaction error in Kohn-Sham calculations: A DFT + U case study on pentaaqua uranyl(VI)_](http://dx.doi.org/10.1016/j.comptc.2010.10.043)     
     Raghunathan Ramakrishnan, Alexei V. Matveev, Notker Rösch     
     Computational and Theoretical Chemistry, 963 (2011) 337–343.
     
